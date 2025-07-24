@@ -1,0 +1,1 @@
+# wordpress-pdf-generator-plugin
