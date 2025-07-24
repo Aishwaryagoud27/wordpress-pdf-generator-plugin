@@ -1,0 +1,12 @@
+{
+  "name": "yourname/pdf-generator-plugin",
+  "description": "A WordPress plugin to generate PDFs from posts/pages.",
+  "require": {
+    "mpdf/mpdf": "^8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "includes/"
+    }
+  }
+}
